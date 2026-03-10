@@ -1,0 +1,11 @@
+**Database Name: bnkms**
+
+**Developed by aman kumar thakur batch no.19, section - Y**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Staff Login Details**
+
+ID:	  210001
+Password: password
